@@ -31,7 +31,7 @@ h1 {
 }
 
 menu#itens {
-    margin-top: 80px;
+    margin-top: 50px;
     display: none;nav {
         
     
@@ -42,11 +42,11 @@ menu#itens {
 #burguer {
     
     position: absolute;
-    top: 46px;
+    top: 30px;
     font-variation-settings: 'FILL' 0, 'wght' 1000, 'GRAD' 0, 'opsz' 40;
     background-color: rgb(155, 158, 158);
-    font-size: 2.9em;
-    padding: 14px;
+    font-size: 2.5em;
+    padding: 10px;
     
 }
 
@@ -56,7 +56,7 @@ menu#itens {
 }
 
 nav {
-    margin-bottom: 30px;
+    margin-bottom: 28px;
     
 }
   
@@ -68,7 +68,7 @@ nav {
     font-weight: bolder;
     padding:15px;
     font-size: 0.8em;
-    border-radius: 10px;
+    border-radius: 5px;
    
 }
 

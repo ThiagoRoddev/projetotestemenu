@@ -7,17 +7,22 @@
     }
 
     menu#itens {
-        display: inline-block ;
+        display: inline ;
         margin-top: 30px;
+        padding: 0px;
+       
     }
 
     nav {
-        display: inline;
+        display: inline-block;
+        margin: 0px;
     }
+
 
     #nav1, #nav2, #nav3, #nav4, #nav5 {
         font-size: 1em;
-        
-      
+        border-radius: 0px;
+        margin: 0px;
+        padding: 15px 10px;
     }
-    
+}
